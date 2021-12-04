@@ -3,6 +3,9 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 -->
+
+# This is only the tip of the iceberg, most of my work are on private repos on gitlab and azure.
+
 <h2>👋 Hey there! I'm Farhad</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -59,7 +62,6 @@
 <a href="mailto:adeli.farhad@gmail.com"><img src="https://img.shields.io/badge/-adeli.farhad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/1055015/exlord"><img src="https://img.shields.io/badge/-Exlord-D14836?style=flat&logo=stackoverflow&logoColor=orrange"/></a>
 </p>
-
 
 -------------------
 
