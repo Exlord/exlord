@@ -19,8 +19,6 @@
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -50,8 +48,20 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=exlord&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=exlord&layout=compact&langs_count=8&theme=algolia"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Exlord&layout=compac"/>-->
+  
+
 </a>
+
+  
 </p>
+
+### Stackoverflow
+[![Farhad Adeli StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1055015&layout=compact&theme=dark)](https://stackoverflow.com/users/1055015/exlord)
+
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=exlord&theme=oldie&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/Exlord)
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me
