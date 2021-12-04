@@ -4,12 +4,11 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 -->
 
-# This is only the tip of the iceberg, most of my work are on private repos on gitlab and azure.
+**This is only the tip of the iceberg, most of my work are on private repos on gitlab and azure.**
 
-<h2>👋 Hey there! I'm Farhad</h2>
+-----------------------------
 
-### 👨🏻‍💻 &nbsp;About Me
-
+# 👋 Hey there! I'm Farhad</h2>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Mechine Learning.\
@@ -19,7 +18,7 @@
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 -->
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -41,30 +40,32 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Exlord">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=exlord&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=exlord&layout=compact&langs_count=8&theme=algolia"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Exlord&layout=compac"/>-->
-  
+  <a href="https://github.com/Exlord">
+    <img height="150px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=exlord&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=exlord&layout=compact&langs_count=8&theme=algolia"/>
+    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Exlord&layout=compac"/>-->
 
-</a>
 
-  
+  </a>
 </p>
 
-### Stackoverflow
-[![Farhad Adeli StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1055015&layout=compact&theme=dark)](https://stackoverflow.com/users/1055015/exlord)
+## Stackoverflow
+<a href="https://github.com/Exlord" align="left">
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=1055015&layout=compact&theme=dar"/>
+</a>
 
-### Trophies
+## Github Trophies
+<p align="center">
+  <a href="https://github.com/Exlord">
+    <img src="https://github-profile-trophy.vercel.app/?username=exlord&theme=oldie&row=2&column=3&margin-w=15&margin-h=15"/>
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=exlord&theme=oldie&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/Exlord)
 
-
-
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://farhadadeli.ir"><img src="https://img.shields.io/badge/-farhadadeli.ir-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
