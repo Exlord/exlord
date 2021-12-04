@@ -24,10 +24,20 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-<!--![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C#)&nbsp;\-->
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C%20Sharp)&nbsp;\
+
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
+![Vuejs](https://img.shields.io/badge/-Vuejs-05122A?style=flat&logo=Vuejs)&nbsp;
+![ZF1](https://img.shields.io/badge/-ZF1-05122A?style=flat&logo=ZF1)&nbsp;
+![ZF2](https://img.shields.io/badge/-ZF1-05122A?style=flat&logo=ZF1)&nbsp;
+![ASP.NET (MVC, WEB API, CORE)](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=ASP.NET)&nbsp;\
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind&logoColor=563D7C)&nbsp;\
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
@@ -55,3 +65,8 @@
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 -->
+
+-------------------
+
+Work In Progress ...
+More Info Comming soom ...
